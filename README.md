@@ -3,8 +3,9 @@
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-black?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Made with Gemini](https://img.shields.io/badge/Made%20with-Gemini-blue?logo=google-gemini&logoColor=white)](https://gemini.google.com/)
 [![Author](https://img.shields.io/badge/Author-Miki%20Mame-lightgrey)](https://github.com/MikiMameme)  
-
-
+![スクリーンショット1](https://github.com/MikiMameme/Zunda_rogue/blob/main/Screenshot1.png)  
+![スクリーンショット2](https://github.com/MikiMameme/Zunda_rogue/blob/main/Screenshot2.png)  
+![スクリーンショット3](https://github.com/MikiMameme/Zunda_rogue/blob/main/Screenshot3.png)  
 
 Rustと `macroquad` で作成された、ローグライクゲームのプロトタイプです。
 プレイヤーは「東北ずん子」を操作し、「ずんだもん」を放って敵を倒しながら、ステージを進んでいきます。
