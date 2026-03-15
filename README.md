@@ -1,4 +1,4 @@
-# ずんだローグ (Zunda Rogue) Prototype 
+# ずんだローグ (プロトタイプ)
 
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-black?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
